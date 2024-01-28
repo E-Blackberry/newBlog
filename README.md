@@ -18,6 +18,8 @@ Incluye ejemplos en Windows, Linux y Mac
 Disponible para todas las edades
 
 Powered by the incredible Hulk
+Incluye a otros super heroes
+Disponible en tiendas
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el [curso](https://platzi.com/cursos/git-github/).
 
